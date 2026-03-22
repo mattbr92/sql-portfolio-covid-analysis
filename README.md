@@ -5,7 +5,7 @@ This repository contains a series of SQL queries designed to analyze the global 
 
 ## Skills & Technologies
 * **Platform:** Google BigQuery
-* **Advanced SQL Techniques:**
+* **SQL Techniques:**
   * **CTEs (Common Table Expressions)** for modular code.
   * **Aggregate Functions:** `SUM`, `MAX`, `ROUND`.
   * **Data Filtering:** `WHERE`, `IN` operators.
