@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains a series of SQL queries designed to analyze the global and regional impact of the COVID-19 pandemic. Using the **Google Cloud BigQuery Public Dataset**, I performed data cleaning, mortality rate calculations, and trend identification.
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 * **Platform:** Google BigQuery
 * **Advanced SQL Techniques:**
   * **CTEs (Common Table Expressions)** for modular code.
