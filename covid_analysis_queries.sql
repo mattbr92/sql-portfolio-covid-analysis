@@ -24,7 +24,7 @@ GROUP BY
   province_state
 ORDER BY
   province_state ASC;
-
+----------------------------------------------------------------------------
 SELECT
   country_region,
   ROUND(MAX(confirmed)/1000000,2) AS peak_cases --## numbers in millions
