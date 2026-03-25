@@ -53,4 +53,4 @@ FROM mexico_summary
 WHERE
   mexico_summary.total_deaths > 0.05
 ORDER BY 
-  mexico_summary.total_deaths DESC
+  mexico_summary.total_deaths DESC;
